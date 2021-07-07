@@ -1,4 +1,4 @@
-# Arithmetic Lab
+ # Arithmetic Lab
 
 ## Assignment
 It's time for your first solo assignment since joining the Flatbook team!
